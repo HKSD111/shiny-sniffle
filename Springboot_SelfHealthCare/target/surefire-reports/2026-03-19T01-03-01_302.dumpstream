@@ -1,0 +1,5 @@
+# Created at 2026-03-19T01:03:01.385
+Boot Manifest-JAR contains absolute paths in classpath 'E:\PyProject\Springboot_SelfHealthCare\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
